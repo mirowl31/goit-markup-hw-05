@@ -118,7 +118,7 @@
     height: 120px;
     box-sizing: border-box;
     background-color: transparent;
-    color: #2e2f42;
+    color: rgba(46, 47, 66, 0.4);
     font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
@@ -171,7 +171,7 @@
 }
 .checkbox:checked + .modal-form-policy .modal-form-checkbox{
     border-color: transparent;
-    background-color: #4d5ae5;
+    background-color: #404bbf;
 }
 .checkbox:checked + .modal-form-policy .modal-form-checkbox-icon{
     opacity: 1;
