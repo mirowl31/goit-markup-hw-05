@@ -93,7 +93,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -146,11 +146,11 @@
     margin-bottom: 8px;
 }
 
-.modal-form-field:nth-child(4) {
+.modal-form-field-comment {
     margin-bottom: 16px;
 }
 
-.modal-form-field:last-child {
+.modal-form-field-policy {
     margin-bottom: 24px;
 }
 
